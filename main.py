@@ -5,7 +5,7 @@ from PyQt5 import QtCore
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtWidgets import QMainWindow, QTableWidgetItem, QWidget
 
-from UI.add import Ui_Form
+from UI.addEditCoffeeForm import Ui_Form
 from UI.main_ui import Ui_MainWindow
 
 
